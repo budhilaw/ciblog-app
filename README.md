@@ -1,6 +1,8 @@
 # ciblog-app
 Blog built with Codeigniter 3.x
 
+**Note**: Do not use this project for production
+
 ## Minimum Requirement
 * PHP version 5.6 or newer is recommended.
 * MySQL (5.1+) via the mysql (deprecated), mysqli and pdo drivers
